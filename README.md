@@ -1,1 +1,1 @@
-# Basketball-Scoreboard hosted link (https://github.com/Favourzita94/Basketball-Scoreboard.git)
+# Basketball-Scoreboard hosted link (https://favour-basketball-scoreboard.netlify.app/)
